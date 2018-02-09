@@ -37,7 +37,7 @@ import java.util.Locale;
 
 class BitmapUtils {
 
-    private static final String FILE_PROVIDER_AUTHORITY = "com.example.android.fileprovider";
+    private static final String FILE_PROVIDER_AUTHORITY = "behlinc.mehakmeet.fileprovider";
 
 
     /**
@@ -147,7 +147,7 @@ class BitmapUtils {
         String imageFileName = "JPEG_" + timeStamp + ".jpg";
         File storageDir = new File(
                 Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_PICTURES)
-                        + "/Emojify");
+                        + "/Mehakmeet");
         boolean success = true;
         if (!storageDir.exists()) {
             success = storageDir.mkdirs();

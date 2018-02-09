@@ -14,7 +14,7 @@
  See the License for the specific language governing permissions and
  limitations under the License.-->
 <resources>
-    <color name="colorPrimary">#ab000dff</color>
+    <color name="colorPrimary">#3c42bf</color>
     <color name="colorPrimaryDark">#001aff</color>
     <color name="colorAccent">#FF4081</color>
 </resources>
