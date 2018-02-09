@@ -42,6 +42,7 @@
         android:layout_margin="@dimen/view_margin"
         android:textAlignment="center"
         android:text="Turn your Expressions to Emoji"
+        android:textColor="@android:color/white"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
 
     <Button
